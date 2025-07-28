@@ -10,6 +10,6 @@ npm run dev
 
 ## Деплой
 
+![Vercel Deploy](https://deploy-badge.vercel.app/vercel/ra-homeworks-5-2/alextupicyn)
 
-
-Ссылка на публичную страницу: 
+Ссылка на публичную страницу: https://ra-homeworks-5-2-one.vercel.app/
